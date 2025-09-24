@@ -1,0 +1,26 @@
+package com.example.dataservice.entity;
+
+import jakarta.persistence.*;
+import lombok.*;
+
+import java.util.ArrayList;
+import java.util.List;
+
+@Entity
+@Table(name = "categorias")
+@Getter @Setter @NoArgsConstructor @AllArgsConstructor @Builder
+public class Categoria {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @Column(nullable = false, length = 100, unique = true)
+    private String nombre;
+
+    @Column(length = 500)
+    private String descripcion;
+
+    @OneToMany(mappedBy = "categoria", cascade = CascadeType.ALL)
+    @Builder.Default
+    private List<Producto> productos = new ArrayList<>();
+}
