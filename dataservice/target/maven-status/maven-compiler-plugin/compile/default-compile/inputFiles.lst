@@ -1,0 +1,17 @@
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/repository/ProductoRepository.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/service/impl/ProductoServiceImpl.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/dto/ProductoCreateUpdateDTO.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/entity/Inventario.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/repository/InventarioRepository.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/service/ProductoService.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/repository/CategoriaRepository.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/service/impl/InventarioServiceImpl.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/service/impl/CategoriaServiceImpl.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/exception/RecursoNoEncontradoException.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/service/CategoriaService.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/entity/Producto.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/service/InventarioService.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/DataServiceApplication.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/exception/ApiExceptionHandler.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/entity/Categoria.java
+/home/thinkpademi/IdeaProjects/programacion-2-trabajo-practico-6-emilianomassolin/dataservice/src/main/java/com/example/dataservice/controller/DataController.java
