@@ -21,5 +21,6 @@ public class Categoria {
     private String descripcion;
 
     @OneToMany(mappedBy = "categoria", cascade = CascadeType.ALL)
+    @Builder.Default
     private List<Producto> productos = new ArrayList<>();
 }
